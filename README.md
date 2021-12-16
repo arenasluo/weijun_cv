@@ -5,7 +5,6 @@
 
 [Email](mailto:ericluoweijun2007cool@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/weijun-eric-luo/) / [GitHub](https://github.com/arenasluo/) / [Twitter](https://twitter.com/arenasluo/) 
 
-
 ## 👩🏼‍🎓 Education
 
 **Ph.D.** in Phyisical Chemistry and Quantum Information Science <br>
@@ -14,11 +13,27 @@
 **Master of Applied Science** in Semiconductor Materials Engineering <br>
 [University of British Columbia](https://www.ubc.ca/) - Vancouver, BC, Canada _(Jan, 2015 - July, 2017)_
 
-**Bachelor of Science** Electronics physics and technology<br>
+**Graduate school** in Materials Science and Engineering <br>
+[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) - Shanghai, China _(Sep, 2013 - Aug, 2014)_
+
+**Bachelor of Science** in Electronics Physics and Technology<br>
 [Fudan University](https://www.fudan.edu.cn/en/) - Shanghai, China _(Sep, 2009 - Jun, 2013)_
 
+## 👩🏼‍💻 MOOC Experience (completed with certificates)
+**IBM data analyst professional certificate** @ [Coursera](https://https://www.coursera.org/) <br>
+  - Data Visualization with Python
+  - Python Project for Data Science
+  - Data Analysis with Python
+  - Python for Data Science and AI
+  - Data Visualization & Dashboard Essentials
+  - **_Technologies used:_** SQL, python, pandas, seaborn, matplotlib, scikit-learn
+<br><br>
 
-## 👩🏼‍💻 Experience
+**Statistics** @ [Udemy](https://https://www.coursera.org/) <br>
+  -  Statistics for Data Science and Business Analysis 
+  -  A/B Testing 101 
+
+## 👩🏼‍💻 Work Experience
 **IT specialist for Shared Computing Cluster** @ [Boston University](https://bu.edu/) _(Sep 2017 - present)_ <br>
   - Allocation of three-node server network with 200 cores and 8 graphics cards.
   - Allocation, maintenance and update of the linux distribution, Intel MPI and CUDA 11 on the server network for parallel computing.
