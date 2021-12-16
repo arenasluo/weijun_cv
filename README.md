@@ -1,9 +1,20 @@
 # Weijun Luo (Eric)
 
-- 5th year Ph.D. candidate of physical chemistry at Boston University, Boston, MA <br>
+- 5th-year Ph.D. candidate of physical chemistry at Boston University, Boston, MA <br>
 - Visting researcher / user project leader at Oak Ridge National Laboratory, Oak Ridge, TN <br>
 
 [Email](mailto:ericluoweijun2007cool@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/weijun-eric-luo/) / [GitHub](https://github.com/arenasluo/) / [Twitter](https://twitter.com/arenasluo/) 
+
+## About
+I am a 5th-year Ph.D. candidate at the Department of Chemistry, Boston University (MA, USA). I am actively looking for the role as a data scientist to apply cutting edge methods to understand massive data and improve its impact on society. My doctoral research experience has equipped me with versatile skill sets:
+- Extensive knowledge in using Python / Matlab / R programming language for data processing and machine learning for their applications in materials science.
+- Leadership: Lead three projects hosted by two national laboratories;
+- Communication skills: Coordinate the progress with cross-team and international collaborations and report to the principal investigator and head scientists periodically;
+- Presentation skills: Present to the professionals and public from less than 100 parties to ~ 500 people;
+- Raising funding support from internal and external agencies.
+- Data-driven thinking and complex data processing
+- Productive performance: 4 journal articles have been released and 4 manuscripts are under preparation during Ph.D. training
+
 
 ## 👩🏼‍🎓 Education
 
@@ -55,8 +66,8 @@ Perform the finite element simulation (FEA) through cloud computing platform by 
 <br><br>
 
 ## 🏆 Award
--**Graduate Student Initiative(GSI) Award** @ [University of British Columbia](https://ubc.ca/) _(2015 - 2017)_ <br>
--**Faculty of Applied Science Graduate Award** @ [University of British Columbia](https://ubc.ca/) _(2015 - 2017)_ <br>
--**Gold medal winner of CASTIC (national wide)** @ [China Adolescents Science & Technology Innovation Contest](https://www.cyscc.org.cn/WhatWeDo/whatWeDo_do.aspx?type=Castic/) _(2006)_ <br>
+- **Graduate Student Initiative(GSI) Award** @ [University of British Columbia](https://ubc.ca/) _(2015 - 2017)_ <br>
+- **Faculty of Applied Science Graduate Award** @ [University of British Columbia](https://ubc.ca/) _(2015 - 2017)_ <br>
+- **Gold medal winner of CASTIC (national wide)** @ [China Adolescents Science & Technology Innovation Contest](https://www.cyscc.org.cn/WhatWeDo/whatWeDo_do.aspx?type=Castic/) _(2006)_ <br>
 
 
