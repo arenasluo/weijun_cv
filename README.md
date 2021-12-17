@@ -65,7 +65,7 @@ Perform the finite element simulation (FEA) through cloud computing platform by 
   - **_Technologies used:_** Tool command language (TCL), Python and Matlab.
 <br><br>
 
-## 👩🏼‍💻 Project Experience (completed with certificates)
+## 👩🏼‍💻 Project Experience
 **Data Science**  <br>
   - Customer segementation engine
   - Movie recommendation system
