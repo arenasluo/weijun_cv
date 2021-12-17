@@ -32,10 +32,14 @@ I am a 5th-year Ph.D. candidate at the Department of Chemistry, Boston Universit
 
 ## 👩🏼‍💻 MOOC Experience (completed with certificates)
 **IBM data analyst professional certificate** @ [Coursera](https://https://www.coursera.org/) <br>
+**IBM data science professional certificate** @ [Coursera](https://https://www.coursera.org/) <br>
+  - IBM Data Analyst Capstone Project
+  - Applied Data Science Capstone
+  - Machine Learning with Python
+  - Python for Data Science and AI
   - Data Visualization with Python
   - Python Project for Data Science
   - Data Analysis with Python
-  - Python for Data Science and AI
   - Data Visualization & Dashboard Essentials
   - **_Technologies used:_** SQL, python, pandas, seaborn, matplotlib, scikit-learn
 <br><br>
