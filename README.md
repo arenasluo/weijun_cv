@@ -6,7 +6,7 @@
 [Email](mailto:weijun.luo.eric@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/weijun-eric-luo/) / [GitHub](https://github.com/arenasluo/) / [Twitter](https://twitter.com/arenasluo/) 
 
 ## About
-I am a 5th-year Ph.D. candidate at the Department of Chemistry, Boston University (MA, USA). I am actively looking for the role as a data scientist to apply cutting edge methods to understand massive data and improve its impact on society. My doctoral research experience has equipped me with versatile skill sets:
+I am a 5th-year Ph.D. candidate at the Department of Chemistry, Boston University (MA, USA). I am actively looking for the role of a data scientist to apply cutting-edge methods to understand massive data and improve its impact on society. My doctoral research experience has equipped me with versatile skill sets:
 - Extensive knowledge in using Python / Matlab / R programming language for data processing and machine learning for their applications in materials science.
 - Leadership: Lead three projects hosted by two national laboratories;
 - Communication skills: Coordinate the progress with cross-team and international collaborations and report to the principal investigator and head scientists periodically;
