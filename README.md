@@ -42,6 +42,7 @@ I am a 5th-year Ph.D. candidate at the Department of Chemistry, Boston Universit
 
 **Statistics** @ [Udemy](https://https://www.coursera.org/) <br>
   -  Statistics for Data Science and Business Analysis 
+  -  Bayesian Statistics 
   -  A/B Testing 101 
 
 ## 👩🏼‍💻 Work Experience
