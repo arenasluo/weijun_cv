@@ -65,6 +65,18 @@ Perform the finite element simulation (FEA) through cloud computing platform by 
   - **_Technologies used:_** Tool command language (TCL), Python and Matlab.
 <br><br>
 
+## 👩🏼‍💻 Project Experience (completed with certificates)
+**Data Science**  <br>
+  - Customer segementation engine
+  - Movie recommendation system
+  - Startups case study and analysis
+
+**Machine learning**  <br>
+  - Predicting health expense of customers
+  - Employee promotion prediction
+  - Deterimining a person should be granted a loan
+
+
 ## 🏆 Award
 - **Graduate Student Initiative(GSI) Award** @ [University of British Columbia](https://ubc.ca/) _(2015 - 2017)_ <br>
 - **Faculty of Applied Science Graduate Award** @ [University of British Columbia](https://ubc.ca/) _(2015 - 2017)_ <br>
