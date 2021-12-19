@@ -72,11 +72,15 @@ Perform the finite element simulation (FEA) through cloud computing platform by 
 
 ## 👩🏼‍💻 Project Experience
 **Data Science**  <br>
+  - Identifying quantum defects hosts via data mining: \
+     Data mining and screening potential quantum defects hosts from "Materialsproject" and "2DMATpedia" databases   
   - Customer segementation engine
   - Movie recommendation system
   - Startups case study and analysis
 
 **Machine learning**  <br>
+  - Predict potential quantum defects (deep level states) via machine learning:\
+     Use supporting vector machine method to predict the energy of defect states in 2D wide gap semiconductors based on first-principle calculations.
   - Predicting health expense of customers
   - Employee promotion prediction
   - Deterimining a person should be granted a loan
