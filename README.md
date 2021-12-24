@@ -75,6 +75,7 @@ I am a 5th-year Ph.D. candidate at the Department of Chemistry, Boston Universit
 
 **Visting researcher / user project leader** @ [Oak Ridge National Laboratory](https://www.ornl.gov/staff-profile/weijun-luo/) _(Dec 2019 - present)_ <br>
 Statistics study of quantum light sources 
+  - Profile: https://www.ornl.gov/staff-profile/weijun-luo
   - Analyze the photon statistic via the second order correlation function 
   - Time tagging characterization of the lag time of photon events of different routing paths.
   - **_Technologies used:_** Python
