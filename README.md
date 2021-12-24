@@ -49,6 +49,22 @@ I am a 5th-year Ph.D. candidate at the Department of Chemistry, Boston Universit
   -  Bayesian Statistics 
   -  A/B Testing 101 
 
+## 👩🏼‍💻 Project Experience
+**Data Science**  <br>
+  - Identifying quantum defects hosts via data mining: \
+     Data mining and screening potential quantum defects hosts from "Materialsproject" and "2DMATpedia" databases   
+  - Customer segementation engine
+  - Movie recommendation system
+  - Startups case study and analysis
+
+**Machine learning**  <br>
+  - Predict potential quantum defects (deep level states) via machine learning:\
+     Use supporting vector machine method to predict the energy of defect states in 2D wide gap semiconductors based on first-principle calculations.
+  - Predicting health expense of customers
+  - Employee promotion prediction
+  - Deterimining a person should be granted a loan
+
+
 ## 👩🏼‍💻 Work Experience
 **IT specialist for Shared Computing Cluster** @ [Boston University](https://bu.edu/) _(Sep 2017 - present)_ <br>
   - Allocation of three-node server network with 200 cores and 8 graphics cards.
@@ -69,22 +85,6 @@ Perform the finite element simulation (FEA) through cloud computing platform by 
   - Use dynamic programming language such as tool command language (TCL) to deploy physical model for finite element analysis
   - **_Technologies used:_** Tool command language (TCL), Python and Matlab.
 <br><br>
-
-## 👩🏼‍💻 Project Experience
-**Data Science**  <br>
-  - Identifying quantum defects hosts via data mining: \
-     Data mining and screening potential quantum defects hosts from "Materialsproject" and "2DMATpedia" databases   
-  - Customer segementation engine
-  - Movie recommendation system
-  - Startups case study and analysis
-
-**Machine learning**  <br>
-  - Predict potential quantum defects (deep level states) via machine learning:\
-     Use supporting vector machine method to predict the energy of defect states in 2D wide gap semiconductors based on first-principle calculations.
-  - Predicting health expense of customers
-  - Employee promotion prediction
-  - Deterimining a person should be granted a loan
-
 
 ## 🏆 Award
 - **Graduate Student Initiative(GSI) Award** @ [University of British Columbia](https://ubc.ca/) _(2015 - 2017)_ <br>
