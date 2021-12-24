@@ -80,12 +80,6 @@ Statistics study of quantum light sources
   - **_Technologies used:_** Python
 <br><br>
 
-**TCAD simulation engineer** @ [Texas Instruments](https://www.ti.com/) _(Feb, 2015 - May, 2017)_ <br>
-Perform the finite element simulation (FEA) through cloud computing platform by Canada’s National Design Network
-  - Use dynamic programming language such as tool command language (TCL) to deploy physical model for finite element analysis
-  - **_Technologies used:_** Tool command language (TCL), Python and Matlab.
-<br><br>
-
 ## 🏆 Award
 - **Graduate Student Initiative(GSI) Award** @ [University of British Columbia](https://ubc.ca/) _(2015 - 2017)_ <br>
 - **Faculty of Applied Science Graduate Award** @ [University of British Columbia](https://ubc.ca/) _(2015 - 2017)_ <br>
