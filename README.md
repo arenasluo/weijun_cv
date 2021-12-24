@@ -1,7 +1,7 @@
 # Weijun Luo (Eric)
 
 - 5th-year Ph.D. candidate of physical chemistry at Boston University, Boston, MA <br>
-- Visting researcher / user project leader at Oak Ridge National Laboratory, Oak Ridge, TN <br>
+- Visting researcher / user project leader in quantum information science at Oak Ridge National Laboratory, Oak Ridge, TN <br>
 
 [Email](mailto:weijun.luo.eric@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/weijun-eric-luo/) / [GitHub](https://github.com/arenasluo/) / [Twitter](https://twitter.com/arenasluo/) 
 
