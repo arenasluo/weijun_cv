@@ -43,11 +43,6 @@ My doctoral research experience has equipped me with versatile skill sets:
 **Bachelor of Science** in Electronics Physics and Technology<br>
 [Fudan University](https://www.fudan.edu.cn/en/) - Shanghai, China _(Sep, 2009 - Jun, 2013)_
 
-**Statistics** @ [Udemy](https://https://www.coursera.org/) <br>
-  -  Statistics for Data Science and Business Analysis 
-  -  Bayesian Statistics 
-  -  A/B Testing 101 
-
 ## 👩🏼‍💻 Industry working Experience
 **Machine learning research intern** @ [Signify (Philips Lighting) Research North America](https://www.signify.com/global) _(Apr 2022 - present)_ <br>
   - Artificial intelligence and sustainability. (Python, Machine Learning)
