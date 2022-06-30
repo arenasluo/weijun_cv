@@ -6,7 +6,7 @@
 [Email](mailto:weijun.luo.eric@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/weijun-eric-luo/) / [GitHub](https://github.com/arenasluo/) / [Twitter](https://twitter.com/arenasluo/) 
 
 ### About
-**I am now working at Signify (Philips Lighting) Research North America as machine learning research intern on AI and sustainability 
+### I am now working at Signify (Philips Lighting) Research North America as machine learning research intern on AI and sustainability 
 
 - Train deep learning models Vanila RNN, LSTM and GRU for time-series forecasting of location-based micro-climate, air pollution and urban heat island effect (UHIE) with real-time single sensor data from Signify's Interact Cloud; Achieved a good prediction performance with an average mean absolute percentage error (MAPE) of 12\%; Deploy online machine learning model demo by Flask and Heroku.
         
@@ -15,9 +15,7 @@
 - Develop time sequential outlier detection and prediction methods for Philips Dynalite system installed in luxury hotels for smart room management; stream time series room data information from Philips Interact IofT cloud, create labels for the regularized time sequential room logic pattern, build classification models for distinguishing the outliers, forecast the outliers by both supervised and non-supervised approaches.
         
 - Write two invention disclosure (ID) of time sequential and location-based UHIE and room outlier predictions based on Signify's scalable IofT sensor network.
-
 --------------------------------------------------------------------------
-
 ### I am actively looking for the role of a data scientist / machine learning engineer to apply cutting-edge methods to understand massive data and improve its impact on society.
 My doctoral research experience has equipped me with versatile skill sets:
 - Extensive knowledge in using Python / Matlab programming language for data processing and machine learning for their applications in materials science.
