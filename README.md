@@ -17,7 +17,7 @@
         
 - Write two invention disclosure (ID) of time sequential and location-based UHIE and room outlier predictions based on Signify's scalable IofT sensor network.
 --------------------------------------------------------------------------
-### I am actively looking for the role of a data scientist / machine learning engineer to apply cutting-edge methods to understand massive data and improve its impact on society.
+### I am actively looking for the role of a full-time data scientist / machine learning engineer to apply cutting-edge methods to understand massive data and improve its impact on society.
 My doctoral research experience has equipped me with versatile skill sets:
 - Extensive knowledge in using Python / Matlab programming language for data processing and machine learning for their applications in materials science.
 - Leadership: Lead three projects hosted by two national laboratories;
