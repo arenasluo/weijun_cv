@@ -6,8 +6,6 @@
 [Email](mailto:weijun.luo.eric@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/weijun-eric-luo/) / [GitHub](https://github.com/arenasluo/) / [Twitter](https://twitter.com/arenasluo/) 
 
 ### About
-**I am a 5th-year Ph.D. candidate at the Department of Chemistry, Boston University (MA, USA).
-
 **I am now working at Signify (Philips Lighting) Research North America as machine learning research intern on AI and sustainability 
 --------------------------------------------------------------------------
 
