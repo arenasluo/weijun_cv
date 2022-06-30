@@ -55,8 +55,8 @@ My doctoral research experience has equipped me with versatile skill sets:
 <br><br>
 
 **TCAD simulation flow** @ [Texas Instruments, USA](https://www.ti.com) _(Feb 2015 - Feb 2017)_ <br>
-  - Artificial intelligence and sustainability. (Python, Machine Learning)
-  - **_Technologies used:_** Python, Pytorch, JSON, JIRA, confluence page
+  - Modeling the dopant simulation in SixGe1-x heterostructures
+  - **_Technologies used:_** Tool command language, Sentaurus Process
 <br><br>
 
 
