@@ -7,11 +7,20 @@
 
 ### About
 **I am now working at Signify (Philips Lighting) Research North America as machine learning research intern on AI and sustainability 
+
+- Train deep learning models Vanila RNN, LSTM and GRU for time-series forecasting of location-based micro-climate, air pollution and urban heat island effect (UHIE) with real-time single sensor data from Signify's Interact Cloud; Achieved a good prediction performance with an average mean absolute percentage error (MAPE) of 12\%; Deploy online machine learning model demo by Flask and Heroku.
+        
+- Incorporate spatial-temporal information and train deep learning models ConvGRU and ConVLSTM for time-series forecasting of the location variation of micro-climate, air pollution and urban heat island effect (UHIE) with real-time multiple sensor data from Signify's Interact Cloud; Deploy online machine learning model demo by Flask and Heroku and cell app demo on Philips Hue APP.
+
+- Develop time sequential outlier detection and prediction methods for Philips Dynalite system installed in luxury hotels for smart room management; stream time series room data information from Philips Interact IofT cloud, create labels for the regularized time sequential room logic pattern, build classification models for distinguishing the outliers, forecast the outliers by both supervised and non-supervised approaches.
+        
+- Write two invention disclosure (ID) of time sequential and location-based UHIE and room outlier predictions based on Signify's scalable IofT sensor network.
+
 --------------------------------------------------------------------------
 
 ### I am actively looking for the role of a data scientist / machine learning engineer to apply cutting-edge methods to understand massive data and improve its impact on society.
 My doctoral research experience has equipped me with versatile skill sets:
-- Extensive knowledge in using Python / Matlab / R programming language for data processing and machine learning for their applications in materials science.
+- Extensive knowledge in using Python / Matlab programming language for data processing and machine learning for their applications in materials science.
 - Leadership: Lead three projects hosted by two national laboratories;
 - Communication skills: Coordinate the progress with cross-team and international collaborations and report to the principal investigator and head scientists periodically;
 - Presentation skills: Present to the professionals and public from less than 100 parties to ~ 500 people;
@@ -39,7 +48,11 @@ My doctoral research experience has equipped me with versatile skill sets:
   -  Bayesian Statistics 
   -  A/B Testing 101 
 
-## 👩🏼‍💻 Project Experience
+## 👩🏼‍💻 Industry working Experience
+
+
+
+## 👩🏼‍💻 Past Project Experience
 **Data Science**  <br>
   - Identifying quantum defects hosts via data mining: \
      Data mining and screening potential quantum defects hosts from "Materialsproject" and "2DMATpedia" databases   
