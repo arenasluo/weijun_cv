@@ -49,8 +49,32 @@ My doctoral research experience has equipped me with versatile skill sets:
   -  A/B Testing 101 
 
 ## 👩🏼‍💻 Industry working Experience
+**Machine learning research intern** @ [Signify (Philips Lighting) Research North America](https://www.signify.com/global) _(Apr 2022 - present)_ <br>
+  - Artificial intelligence and sustainability. (Python, Machine Learning)
+  - **_Technologies used:_** Python, Pytorch, JSON, JIRA, confluence page
+<br><br>
+
+**TCAD simulation flow** @ [Texas Instruments, USA](https://www.ti.com) _(Feb 2015 - Feb 2017)_ <br>
+  - Artificial intelligence and sustainability. (Python, Machine Learning)
+  - **_Technologies used:_** Python, Pytorch, JSON, JIRA, confluence page
+<br><br>
 
 
+## 👩🏼‍💻 Academic work Experience
+**IT specialist for Shared Computing Cluster** @ [Boston University](https://bu.edu/) _(Sep 2017 - present)_ <br>
+  - Allocation of three-node server network with 200 cores and 8 graphics cards.
+  - Allocation, maintenance and update of the linux distribution, Intel MPI and CUDA 11 on the server network for parallel computing.
+  - Allocation of PBS queueing system for multi-task user jobs.
+  - **_Technologies used:_** bash script, python
+<br><br>
+
+**Visting researcher / user project leader** @ [Oak Ridge National Laboratory](https://www.ornl.gov/staff-profile/weijun-luo/) _(Dec 2019 - present)_ <br>
+Statistics study of quantum light sources 
+  - Profile: https://www.ornl.gov/staff-profile/weijun-luo
+  - Analyze the photon statistic via the second order correlation function 
+  - Time tagging characterization of the lag time of photon events of different routing paths.
+  - **_Technologies used:_** Python
+<br><br>
 
 ## 👩🏼‍💻 Past Project Experience
 **Data Science**  <br>
@@ -67,22 +91,6 @@ My doctoral research experience has equipped me with versatile skill sets:
   - Employee promotion prediction
   - Deterimining a person should be granted a loan
 
-
-## 👩🏼‍💻 Work Experience
-**IT specialist for Shared Computing Cluster** @ [Boston University](https://bu.edu/) _(Sep 2017 - present)_ <br>
-  - Allocation of three-node server network with 200 cores and 8 graphics cards.
-  - Allocation, maintenance and update of the linux distribution, Intel MPI and CUDA 11 on the server network for parallel computing.
-  - Allocation of PBS queueing system for multi-task user jobs.
-  - **_Technologies used:_** bash script, python
-<br><br>
-
-**Visting researcher / user project leader** @ [Oak Ridge National Laboratory](https://www.ornl.gov/staff-profile/weijun-luo/) _(Dec 2019 - present)_ <br>
-Statistics study of quantum light sources 
-  - Profile: https://www.ornl.gov/staff-profile/weijun-luo
-  - Analyze the photon statistic via the second order correlation function 
-  - Time tagging characterization of the lag time of photon events of different routing paths.
-  - **_Technologies used:_** Python
-<br><br>
 
 ## 👩🏼‍💻 MOOC Experience (completed with certificates)
 **IBM data analyst professional certificate** @ [Coursera](https://https://www.coursera.org/) <br>
