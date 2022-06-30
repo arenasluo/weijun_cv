@@ -5,8 +5,13 @@
 
 [Email](mailto:weijun.luo.eric@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/weijun-eric-luo/) / [GitHub](https://github.com/arenasluo/) / [Twitter](https://twitter.com/arenasluo/) 
 
-## About
-I am a 5th-year Ph.D. candidate at the Department of Chemistry, Boston University (MA, USA). I am actively looking for the role of a data scientist to apply cutting-edge methods to understand massive data and improve its impact on society. My doctoral research experience has equipped me with versatile skill sets:
+### About
+I am a 5th-year Ph.D. candidate at the Department of Chemistry, Boston University (MA, USA). 
+###(Updated) I am now working at Signify (Philips Lighting) Research North America as machine learning research intern on AI and sustainability 
+--------------------------------------------------------------------------
+
+### I am actively looking for the role of a data scientist / machine learning engineer to apply cutting-edge methods to understand massive data and improve its impact on society.
+My doctoral research experience has equipped me with versatile skill sets:
 - Extensive knowledge in using Python / Matlab / R programming language for data processing and machine learning for their applications in materials science.
 - Leadership: Lead three projects hosted by two national laboratories;
 - Communication skills: Coordinate the progress with cross-team and international collaborations and report to the principal investigator and head scientists periodically;
@@ -29,20 +34,6 @@ I am a 5th-year Ph.D. candidate at the Department of Chemistry, Boston Universit
 
 **Bachelor of Science** in Electronics Physics and Technology<br>
 [Fudan University](https://www.fudan.edu.cn/en/) - Shanghai, China _(Sep, 2009 - Jun, 2013)_
-
-## 👩🏼‍💻 MOOC Experience (completed with certificates)
-**IBM data analyst professional certificate** @ [Coursera](https://https://www.coursera.org/) <br>
-**IBM data science professional certificate** @ [Coursera](https://https://www.coursera.org/) <br>
-  - IBM Data Analyst Capstone Project
-  - Applied Data Science Capstone
-  - Machine Learning with Python
-  - Python for Data Science and AI
-  - Data Visualization with Python
-  - Python Project for Data Science
-  - Data Analysis with Python
-  - Data Visualization & Dashboard Essentials
-  - **_Technologies used:_** SQL, python, pandas, seaborn, matplotlib, scikit-learn
-<br><br>
 
 **Statistics** @ [Udemy](https://https://www.coursera.org/) <br>
   -  Statistics for Data Science and Business Analysis 
@@ -80,6 +71,21 @@ Statistics study of quantum light sources
   - Time tagging characterization of the lag time of photon events of different routing paths.
   - **_Technologies used:_** Python
 <br><br>
+
+## 👩🏼‍💻 MOOC Experience (completed with certificates)
+**IBM data analyst professional certificate** @ [Coursera](https://https://www.coursera.org/) <br>
+**IBM data science professional certificate** @ [Coursera](https://https://www.coursera.org/) <br>
+  - IBM Data Analyst Capstone Project
+  - Applied Data Science Capstone
+  - Machine Learning with Python
+  - Python for Data Science and AI
+  - Data Visualization with Python
+  - Python Project for Data Science
+  - Data Analysis with Python
+  - Data Visualization & Dashboard Essentials
+  - **_Technologies used:_** SQL, python, pandas, seaborn, matplotlib, scikit-learn
+<br><br>
+
 
 ## 🏆 Award
 - **Graduate Student Initiative(GSI) Award** @ [University of British Columbia](https://ubc.ca/) _(2015 - 2017)_ <br>
