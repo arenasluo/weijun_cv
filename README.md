@@ -7,7 +7,7 @@
 [Email](mailto:weijun.luo.eric@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/weijun-eric-luo/) / [GitHub](https://github.com/arenasluo/) / [Twitter](https://twitter.com/arenasluo/) 
 
 ### About
-### I am now working at Signify (Philips Lighting) Research North America as machine learning research intern on AI and sustainability 
+### I am now working at Signify (Philips Lighting) Research North America as machine learning research intern on AI and sustainability.
 
 - Train deep learning models Vanilla RNN, LSTM and GRU for time-series forecasting of location-based micro-climate, air pollution and urban heat island effect (UHIE) with real-time single sensor data from Signify's Interact Cloud; Achieved a good prediction performance with an average mean absolute percentage error (MAPE) of 12\%; Deploy online machine learning model demo by Flask and Heroku.
         
